@@ -6,7 +6,7 @@ Modular arithmetic, ECMultiplication, ECaddition and Point doubling are written 
 # Usage
 Bitquantile has a simple use case which is to find privatekey of a certain publickey provided. So, one must provide "Range" and "Target publickey".
 
-```python3 Bitquantile.py START_RANGE:END_RANGE TARGET_PUBLICKEY```
+```$ python3 Bitquantile.py START_RANGE:END_RANGE TARGET_PUBLICKEY```
 
 Bitquantile will generate publickey from the START-RANGE and compare the X-PUB of the provided public key. 
 
