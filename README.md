@@ -14,7 +14,7 @@ If you are extreamly lucky and FOUND a privatekey, it will automatially be writt
 
 ## Example Usage
 
-I have targeted a publickey from a known privatekey. So, I know the information of range. In case of a random publickey from blockchain, the possiblity of finding its privatekey is as equivalant as finding an atom from the visible universe.
+I have targeted a publickey from a known privatekey. So, I have the information of range for this particular wallet. In case of a random publickey from blockchain, the possiblity of finding its privatekey is as equivalant as finding an atom from the visible universe.
 
 ## Information about the wallet used for testing:
 
