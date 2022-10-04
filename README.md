@@ -10,7 +10,7 @@ Bitquantile has a simple use case which is to find privatekey of a certain publi
 
 Bitquantile will generate publickey from the START-RANGE and compare the X-PUB of the provided public key. 
 
-If you are extreamly lucky and FOUND a privatekey, it will be automatially be written inside CHEST.txt of the same folder.
+If you are extreamly lucky and FOUND a privatekey, it will automatially be written inside CHEST.txt of the same folder.
 
 ## Example Usage
 
