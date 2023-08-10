@@ -1,4 +1,9 @@
-# Bitquantile-py
+
+
+!This project is dedicated to unveiling the formidable prowess of Bitcoin and the intricate artistry of cryptography, demonstrating their resounding impact in the digital realm.
+
+# Bitquantile-p
+
 Bitquantile is a experimental program to bruteforce BITCOIN private keys. 
 
 Modular arithmetic, ECMultiplication, ECaddition and Point doubling are written purely in python. No bitcoin libraries are used in the entire code. Hence, Bitquantile should be the fastest publickey generator in a single instance.
