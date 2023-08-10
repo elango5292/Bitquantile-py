@@ -1,6 +1,4 @@
-
-
-!This project is dedicated to unveiling the formidable prowess of Bitcoin and the intricate artistry of cryptography, demonstrating their resounding impact in the digital realm.
+This project is dedicated to unveiling the formidable prowess of Bitcoin and the intricate artistry of cryptography, demonstrating their resounding impact in the digital realm.
 
 # Bitquantile-p
 
